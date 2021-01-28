@@ -1,0 +1,10 @@
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\bin\Debug\Final_Sim_Ej267.exe.config
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\bin\Debug\Final_Sim_Ej267.exe
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\bin\Debug\Final_Sim_Ej267.pdb
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej207.csprojAssemblyReference.cache
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej267.Form1.resources
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej267.Properties.Resources.resources
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej207.csproj.GenerateResource.cache
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej207.csproj.CoreCompileInputs.cache
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej267.exe
+D:\GITHUB\Facultad\SIM FINAL\FinalSim207\FinalSim\Final_Sim_Ej207\obj\Debug\Final_Sim_Ej267.pdb

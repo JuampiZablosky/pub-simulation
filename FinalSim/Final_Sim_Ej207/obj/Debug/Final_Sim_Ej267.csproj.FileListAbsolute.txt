@@ -1,0 +1,10 @@
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\bin\Debug\Final_Sim_Ej267.exe.config
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\bin\Debug\Final_Sim_Ej267.exe
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\bin\Debug\Final_Sim_Ej267.pdb
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.csprojAssemblyReference.cache
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.Form1.resources
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.Properties.Resources.resources
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.csproj.GenerateResource.cache
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.exe
+C:\Users\juan\Desktop\FinalSim\Final_Sim_Ej267\obj\Debug\Final_Sim_Ej267.pdb
